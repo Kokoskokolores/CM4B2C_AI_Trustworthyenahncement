@@ -1,0 +1,1 @@
+This repository is an examplary collection of Trustworthy enhancing mechanisms to be validate AI decisions in maintenance. The code was developed during the project CM4B2C (https://www.fir.rwth-aachen.de/forschung/forschungsprojekte/detail/cm4b2c-03dps1248a) funded by the German government.
